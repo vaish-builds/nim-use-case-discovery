@@ -1,6 +1,6 @@
 # 🔍 NIM Use Case Discovery Engine
 
-> An enterprise AI adoption tool that uses NVIDIA NIM to identify and prioritize the highest-impact AI use cases for any organization — and generates a C-suite ready implementation roadmap in under 60 seconds.
+> An enterprise AI adoption tool that uses NVIDIA NIM to identify and prioritize the highest-impact AI use cases for any organization and generates a C-suite ready implementation roadmap in under 60 seconds.
 
 **Built by Vaishnavi Awasthi** · MEM @ Duke University · [LinkedIn](https://linkedin.com/in/yourhandle)
 
@@ -57,7 +57,7 @@ While working on my NIM Enterprise Readiness Scorecard (see: [nim-enterprise-rea
 
 NIM is powerful — but enterprise adoption is blocked not just by technical readiness, but by a lack of clarity on *where* to apply AI in the first place. Sales teams, solution architects, and TPMs spend hours in discovery workshops helping enterprises figure out their highest-impact use cases. This tool automates that process.
 
-It's also a demonstration of NIM's own capabilities — the tool uses NIM to sell NIM adoption. That's the kind of novel use case the Enterprise Product Group exists to develop.
+It's also a demonstration of NIM's own capabilities, the tool uses NIM to sell NIM adoption. That's the kind of novel use case the Enterprise Product Group exists to develop.
 
 ---
 
