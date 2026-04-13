@@ -15,7 +15,7 @@ When an IT director or Chief Digital Officer walks into a strategy meeting, they
 2. Which should we tackle first given our budget and timeline?
 3. How do we explain the ROI to our CFO?
 
-NVIDIA NIM has the model quality to answer these questions — but no tool existed to turn that capability into an enterprise adoption roadmap. This tool builds that bridge.
+NVIDIA NIM has the model quality to answer these questions but no tool existed to turn that capability into an enterprise adoption roadmap. This tool builds that bridge.
 
 ---
 
