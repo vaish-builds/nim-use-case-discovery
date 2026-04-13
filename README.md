@@ -2,8 +2,6 @@
 
 > An enterprise AI adoption tool that uses NVIDIA NIM to identify and prioritize the highest-impact AI use cases for any organization and generates a C-suite ready implementation roadmap in under 60 seconds.
 
-**Built by Vaishnavi Awasthi** · MEM @ Duke University · [LinkedIn](https://linkedin.com/in/yourhandle)
-
 ---
 
 ## The Problem This Solves
